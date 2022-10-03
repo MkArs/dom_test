@@ -10,41 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c12bf107-dbca-4e54-b072-47297e9bd019" name="Changes" comment="Dom-parser project is finished">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db_scripts/authorities_5.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db_scripts/converter_db_1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db_scripts/currencies_2.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db_scripts/insert_data_6.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db_scripts/operations_4.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db_scripts/users_3.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/config/EncodingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/config/HibernateConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/config/MySecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/config/MySecurityInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/config/MySpringMvcDispatcherSerlvetIntitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/controller/CurrencyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/controller/OperationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/dao/CurrencyDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/dao/CurrencyDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/dao/OperationDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/dao/OperationDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/entity/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/entity/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/parser/DomParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/service/CurrencyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/service/CurrencyServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/service/OperationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mkhitaryan/test/dom/service/OperationServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/converter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/big.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,8 +185,16 @@
       <option name="presentableId" value="Default" />
       <updated>1664722069203</updated>
       <workItem from="1664722070846" duration="3318000" />
-      <workItem from="1664772040935" duration="12012000" />
+      <workItem from="1664772040935" duration="12695000" />
     </task>
+    <task id="LOCAL-00001" summary="Dom-parser project is finished">
+      <created>1664791425929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664791425929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
